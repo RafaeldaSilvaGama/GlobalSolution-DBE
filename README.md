@@ -1,5 +1,6 @@
 # GlobalSolution-DBE
-Global Solution da matéria DIGITAL BUSINESS ENABLEMENT
+Global Solution das matérias DIGITAL BUSINESS ENABLEMENT e Enterprise Application Development
+*PDF com a documentação da API, assim como seus endpoints esta dentro da pasta do projeto. 
 
 Integrantes
 
@@ -12,3 +13,7 @@ Vinicius de Assis Araújo  RM 94481
 Link Video Pitch
 
 https://youtu.be/7cB-9zMbfuM
+
+Link Video Apresentação Geral
+
+https://youtu.be/SXEmwy0OvaA
